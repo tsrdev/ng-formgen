@@ -1,0 +1,35 @@
+{
+  "name": "ng-formgen",
+  "version": "1.0.0",
+  "description": "Dynamic AngularJS Form generator",
+  "main": "dist/scripts/ng-formgen.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "angular",
+    "AngularJS",
+    "forms",
+    "dynamic",
+    "forms",
+    "forms",
+    "generator",
+    "dynamic",
+    "forms",
+    "generator"
+  ],
+  "authors": [
+    "Alex <dtk077@gmail.com>",
+    "Teodor"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tsrdev/ng-formgen",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
